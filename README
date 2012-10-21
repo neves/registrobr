@@ -1,2 +1,3 @@
-Extrai informacoes do site registro.br
-TODO: analisar os mocks/*.htm para saber qual dado extrair
+Testar as diferenças entre:
+https://registro.br/cgi-bin/avail/?qr=google.com.br
+http://registro.br/cgi-bin/whois/?qr=google.com.br
